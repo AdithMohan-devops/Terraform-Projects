@@ -66,11 +66,4 @@ Contributing
 
 Feel free to fork this repository and submit a pull request with improvements or fixes.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Author
-
-Your Name
-
+Adith Mohan
